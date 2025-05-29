@@ -1,0 +1,115 @@
+%!Adobe-FontList 1.24
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Heavy
+FamilyName:Avenir LT Std
+StyleName:85 Heavy
+FullName:Avenir LT Std 85 Heavy
+MenuName:Avenir LT Std 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Usuario\Documents\fotos-recoleta\Carpeta informe_recoleta\Document fonts\AvenirLTStd-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:28508
+FileModTime:1188188960
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 85 Heavy
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Light
+FamilyName:Avenir LT Std
+StyleName:35 Light
+FullName:Avenir LT Std 35 Light
+MenuName:Avenir LT Std 35 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Usuario\Documents\fotos-recoleta\Carpeta informe_recoleta\Document fonts\AvenirLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:28084
+FileModTime:1188188960
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 35 Light
+NameArray:0,Win,1,Avenir LT Std 35 Light
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Medium
+FamilyName:Avenir LT Std
+StyleName:65 Medium
+FullName:Avenir LT Std 65 Medium
+MenuName:Avenir LT Std 65 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Usuario\Documents\fotos-recoleta\Carpeta informe_recoleta\Document fonts\AvenirLTStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:28132
+FileModTime:1188188961
+WeightClass:550
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 65 Medium
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Oblique
+FamilyName:Avenir LT Std
+StyleName:55 Oblique
+FullName:Avenir LT Std 55 Oblique
+MenuName:Avenir LT Std 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Usuario\Documents\fotos-recoleta\Carpeta informe_recoleta\Document fonts\AvenirLTStd-Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:29564
+FileModTime:1188188961
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 55 Oblique
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
