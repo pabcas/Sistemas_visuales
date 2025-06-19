@@ -1,0 +1,78 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: pictogramas-2.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: centímetros
+Dimensiones de la mesa de trabajo: 67,7333 cm x 38,1 cm
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:
+Gal Gothic Variable Regular (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fuentes:
+Optima LT Std Roman (OTF)
+Optima LT Std Medium (OTF)
+Optima LT Std Bold (OTF)
+Optima LT Std Italic (OTF)
+Optima LT Std Black (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\xampp\htdocs\Sistemas_visuales\prueba 1 copia.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 141000K, 8000 por 6016 píxeles
+Dimensiones: 1277,936 por 961,008 puntos 
+Resolución: 450,727 por 450,727 píxeles por pulgada
+
+
+C:\xampp\htdocs\Sistemas_visuales\prueba 2 copia.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 70500K, 6016 por 4000 píxeles
+Dimensiones: 1443,84 por 960 puntos 
+Resolución: 300 por 300 píxeles por pulgada
+
+
+C:\xampp\htdocs\Sistemas_visuales\baños copia.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 70500K, 6016 por 4000 píxeles
+Dimensiones: 1443,84 por 960 puntos 
+Resolución: 300 por 300 píxeles por pulgada
+
+
+C:\xampp\htdocs\Sistemas_visuales\secundaria.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 7500K, 1600 por 1200 píxeles
+Dimensiones: 1600 por 1200 puntos 
+Resolución: 72 por 72 píxeles por pulgada
