@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/Carpeta informe_recoleta/Document fonts/AdobeFnt24.lst
-FileLength:3299
-FileModTime:772027053
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/InformeEntrega/Document fonts/AdobeFnt24.lst
+FileLength:3249
+FileModTime:772027165
 %EndFont
 
 %BeginFont
@@ -22,7 +22,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir LT Std 85 Heavy
 WritingScript:Roman
-OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/Carpeta informe_recoleta/Document fonts/AvenirLTStd-Heavy.otf
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/InformeEntrega/Document fonts/AvenirLTStd-Heavy.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -51,7 +51,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir LT Std 35 Light
 WritingScript:Roman
-OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/Carpeta informe_recoleta/Document fonts/AvenirLTStd-Light.otf
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/InformeEntrega/Document fonts/AvenirLTStd-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -80,7 +80,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir LT Std 65 Medium
 WritingScript:Roman
-OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/Carpeta informe_recoleta/Document fonts/AvenirLTStd-Medium.otf
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/InformeEntrega/Document fonts/AvenirLTStd-Medium.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -109,7 +109,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir LT Std 55 Oblique
 WritingScript:Roman
-OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/Carpeta informe_recoleta/Document fonts/AvenirLTStd-Oblique.otf
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/InformeEntrega/Document fonts/AvenirLTStd-Oblique.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
