@@ -1,0 +1,91 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Pictogramas.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: millimeters
+Artboard Dimensions: 420 mm x 297 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/food-and-drink-icon-burger-soda-cup-soft-drinks-pop-hamburger-black-white-silhouette-symbol-sign-graphic-clipart-artwork-illustration-pictogram-vector.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3517K, 1225 by 980 pixels
+Dimensions: 247,905 by 198,324 points 
+Resolution: 355,781 by 355,781 pixels per inch
+
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/food-and-drink-icon-burger-soda-cup-soft-drinks-pop-hamburger-black-white-silhouette-symbol-sign-graphic-clipart-artwork-illustration-pictogram-vector.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3517K, 1225 by 980 pixels
+Dimensions: 301,974 by 241,579 points 
+Resolution: 292,078 by 292,078 pixels per inch
+
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/depositphotos_274994010-stock-illustration-pet-paw-cat-dog-footprint.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 703K, 600 by 400 pixels
+Dimensions: 373,134 by 248,756 points 
+Resolution: 115,776 by 115,776 pixels per inch
+
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/IMGS-PARA-PICTOS/LOGO-CEMENTERIO.jpeg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 300K, 453 by 226 pixels
+Dimensions: 481,062 by 240 points 
+Resolution: 67,8 by 67,8 pixels per inch
+
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/peineta.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1024K, 512 by 512 pixels
+Dimensions: 127,872 by 127,872 points 
+Resolution: 288,288 by 288,288 pixels per inch
+
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/pngtree-bicycle-icon-in-flat-style-on-a-black-background-vector-illustration-with-versatile-design-use-for-websites-and-graphics-vector-png-image_41044298.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 400K, 640 by 640 pixels
+Dimensions: 137,019 by 137,019 points 
+Resolution: 336,304 by 336,304 pixels per inch
