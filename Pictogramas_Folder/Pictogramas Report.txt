@@ -24,7 +24,9 @@ Protected Fonts that were not packaged:NONE
 
 -----------------------------------------------------------------------------
 Fonts:
-NONE
+Optima LT Std Italic (OTF)
+Optima LT Std Bold (OTF)
+Myriad Pro (OTF)
 
 -----------------------------------------------------------------------------
 Embedded Fonts:
@@ -36,6 +38,15 @@ NONE
 
 -----------------------------------------------------------------------------
 Linked Images:
+
+/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/pngtree-simple-pictogram-of-a-paper-sheet-as-document-icon-in-vector-png-image_12331288.png
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 1406K, 1200 by 1200 pixels
+Dimensions: 210,3 by 210,3 points 
+Resolution: 410,842 by 410,842 pixels per inch
+
 
 /Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/food-and-drink-icon-burger-soda-cup-soft-drinks-pop-hamburger-black-white-silhouette-symbol-sign-graphic-clipart-artwork-illustration-pictogram-vector.jpg
 Type: RGB
