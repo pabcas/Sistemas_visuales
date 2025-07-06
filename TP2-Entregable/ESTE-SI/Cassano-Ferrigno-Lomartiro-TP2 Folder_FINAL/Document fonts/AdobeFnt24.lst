@@ -1,0 +1,517 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/AdobeFnt24.lst
+FileLength:13207
+FileModTime:773501957
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:768226261
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OptimaLTStd-Bold
+FamilyName:Optima LT Std
+StyleName:Bold
+MenuName:Optima LT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Optima LT Std Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/OptimaLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:36272
+FileModTime:209438155
+DesignSize:120
+NameArray:0,Mac,4,Optima LT Std Bold
+NameArray:0,Win,1,Optima LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OptimaLTStd-BoldItalic
+FamilyName:Optima LT Std
+StyleName:Bold Italic
+MenuName:Optima LT Std
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Optima LT Std Bold Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/OptimaLTStd-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:40384
+FileModTime:209438155
+DesignSize:120
+NameArray:0,Mac,4,Optima LT Std Bold Italic
+NameArray:0,Win,1,Optima LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OptimaLTStd-Italic
+FamilyName:Optima LT Std
+StyleName:Italic
+MenuName:Optima LT Std
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Optima LT Std Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/OptimaLTStd-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:39292
+FileModTime:209438155
+DesignSize:120
+NameArray:0,Mac,4,Optima LT Std Italic
+NameArray:0,Win,1,Optima LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OptimaLTStd-Medium
+FamilyName:Optima LT Std
+StyleName:Medium
+MenuName:Optima LT Std Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Optima LT Std Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/OptimaLTStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:40756
+FileModTime:209438155
+DesignSize:120
+NameArray:0,Mac,4,Optima LT Std Medium
+NameArray:0,Win,1,Optima LT Std Medium
+NameArray:0,Win,16,Optima LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OptimaLTStd
+FamilyName:Optima LT Std
+StyleName:Roman
+MenuName:Optima LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Optima LT Std Roman
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/OptimaLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:35500
+FileModTime:209438155
+DesignSize:120
+NameArray:0,Mac,18,Optima LT Std
+NameArray:0,Mac,4,Optima LT Std Roman
+NameArray:0,Win,1,Optima LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Black
+FamilyName:Avenir
+StyleName:Black
+MenuName:Avenir Black
+StyleBits:2
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Avenir Black
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:704
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Black
+NameArray:0,Mac,4,Avenir Black
+NameArray:0,Win,1,Avenir Black
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BlackOblique
+FamilyName:Avenir
+StyleName:Black Oblique
+MenuName:Avenir Black Oblique
+StyleBits:3
+WeightClass:800
+WidthClass:5
+AngleClass:1
+FullName:Avenir Black Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:1004
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Black Oblique
+NameArray:0,Mac,4,Avenir Black Oblique
+NameArray:0,Win,1,Avenir Black Oblique
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+MenuName:Avenir Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Book
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BookOblique
+FamilyName:Avenir
+StyleName:Book Oblique
+MenuName:Avenir Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Book Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Book Oblique
+NameArray:0,Mac,4,Avenir Book Oblique
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Heavy
+FamilyName:Avenir
+StyleName:Heavy
+MenuName:Avenir Heavy
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Heavy
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:1304
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Heavy
+NameArray:0,Mac,4,Avenir Heavy
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-HeavyOblique
+FamilyName:Avenir
+StyleName:Heavy Oblique
+MenuName:Avenir Heavy
+StyleBits:3
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Heavy Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:1588
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Heavy Oblique
+NameArray:0,Mac,4,Avenir Heavy Oblique
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Light
+FamilyName:Avenir
+StyleName:Light
+MenuName:Avenir Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir Light
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:1904
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Light
+NameArray:0,Mac,4,Avenir Light
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-LightOblique
+FamilyName:Avenir
+StyleName:Light Oblique
+MenuName:Avenir Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Avenir Light Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:2220
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Light Oblique
+NameArray:0,Mac,4,Avenir Light Oblique
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Medium
+FamilyName:Avenir
+StyleName:Medium
+MenuName:Avenir Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:2536
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Medium
+NameArray:0,Mac,4,Avenir Medium
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-MediumOblique
+FamilyName:Avenir
+StyleName:Medium Oblique
+MenuName:Avenir Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Avenir Medium Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:2836
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Medium Oblique
+NameArray:0,Mac,4,Avenir Medium Oblique
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Oblique
+FamilyName:Avenir
+StyleName:Oblique
+MenuName:Avenir
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Oblique
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:3152
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Oblique
+NameArray:0,Mac,4,Avenir Oblique
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Roman
+FamilyName:Avenir
+StyleName:Roman
+MenuName:Avenir
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Roman
+WritingScript:Roman
+OutlineFileName:/Volumes/My Book/Florencia/GRAPHIC-DESIGN/DaVinci/DaVinci/3erAnio/SistemasVisuales/TP2/Sistemas_visuales/TP2-Entregable/ESTE-SI/Cassano-Ferrigno-Lomartiro-TP2 Folder_FINAL/Document fonts/Avenir.ttc
+TTCOffset:3468
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1644004
+FileModTime:768029962
+NameArray:0,Mac,18,Avenir Roman
+NameArray:0,Mac,4,Avenir Roman
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
